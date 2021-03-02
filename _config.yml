@@ -12,7 +12,3 @@ github_username:  datatista
 
 # Build settings
 markdown: kramdown
-
-google_analytics: UA-64812344-1
-show_downloads: true
-theme: jekyll-theme-minimal
